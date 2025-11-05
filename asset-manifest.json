@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/LeBaoHongHanh/IA03-WAD.git/static/css/main.1628ccee.css",
-    "main.js": "/LeBaoHongHanh/IA03-WAD.git/static/js/main.1b4c4655.js",
-    "index.html": "/LeBaoHongHanh/IA03-WAD.git/index.html",
-    "main.1628ccee.css.map": "/LeBaoHongHanh/IA03-WAD.git/static/css/main.1628ccee.css.map",
-    "main.1b4c4655.js.map": "/LeBaoHongHanh/IA03-WAD.git/static/js/main.1b4c4655.js.map"
+    "main.css": "/LeBaoHongHanh/IA03-WAD/static/css/main.1628ccee.css",
+    "main.js": "/LeBaoHongHanh/IA03-WAD/static/js/main.1b4c4655.js",
+    "index.html": "/LeBaoHongHanh/IA03-WAD/index.html",
+    "main.1628ccee.css.map": "/LeBaoHongHanh/IA03-WAD/static/css/main.1628ccee.css.map",
+    "main.1b4c4655.js.map": "/LeBaoHongHanh/IA03-WAD/static/js/main.1b4c4655.js.map"
   },
   "entrypoints": [
     "static/css/main.1628ccee.css",
